@@ -5,6 +5,6 @@
 // @description  Its Simple but interesting
 // @author       ToMo
 // @match        https://cryzen.io/*
-// @require      https://github.com/cooper123456789101/Cryzenhac/blob/main/RecteCryzen.js
+// @require      https://raw.githubusercontent.com/cooper123456789101/Cryzenhac/refs/heads/main/RecteCryzen.js
 // @grant        none
 // ==/UserScript==
